@@ -35,12 +35,12 @@
 		},
 		{
 			"Name": "MagicNode",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/38f49e7411bc47588e0d219758d6b16f"
 		},
 		{
 			"Name": "MultiTask",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e26b2793e714ceab7cb53d9641bfa2d"
 		},
 		{
@@ -53,5 +53,8 @@
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c563909f15434f63869af1cb8046a5ff"
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
